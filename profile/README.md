@@ -12,6 +12,6 @@ This package is organized as follows
 - [QCDMeasurements.jl](https://github.com/akio-tomiya/QCDMeasurements.jl) : QCDMeasurements.jl is a package for measuring physical quantities. This has measurements for basic quantities like chiral condensates, plaquettes. Moreover, pion correlators and topological charge with several definitions. This also has the gradient flow with several actions.
 
 <figure>
-  <img src="blockv2.png" alt="Blick structure" />
+  <img src="blockv2.png" alt="Blick structure" width="20%" />
   <figcaption>Relation between pojects</figcaption>
 </figure>
