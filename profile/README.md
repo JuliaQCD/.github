@@ -1,4 +1,5 @@
-![logo_juliaqcd.pdf](JuliaQCD)
+
+![JuliaQCD](logo_juliaqcd.pdf "JuliaQCD logo")
 
 This code enabales you to perform lattice QCD calculations! A native Julia code for Lattice QCD.
 
