@@ -3,7 +3,7 @@
 
 This code enabales you to perform lattice QCD calculations! A native Julia code for Lattice QCD.
 
-This package is organized as follows
+This package is organized as follows. Basically, upper side depends on lower packages.
 
 
 <figure>
