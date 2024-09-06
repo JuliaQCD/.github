@@ -1,5 +1,8 @@
 
-![JuliaQCD](logo_juliaqcd.png "JuliaQCD logo")
+<figure>
+  <img src="logo_juliaqcd.png" alt="Logo of JuliaQCD" width="60%" />
+  <figcaption>JuliqQCD</figcaption>
+</figure>
 
 This code enabales you to perform lattice QCD calculations! A native Julia code for Lattice QCD.
 
