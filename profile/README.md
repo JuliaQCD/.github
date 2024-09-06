@@ -17,3 +17,18 @@ This package is organized as follows. Basically, upper side depends on lower pac
 - [Gaugefields.jl](https://github.com/akio-tomiya/Gaugefields.jl) : Gaugefields.jl is a package for lattice lattice SU(N) gauge fileds. Treating gauge fields (links), gauge actions with MPI and autograd. This can generate quenched configurations.  
 - [Wilsonloop.jl](https://github.com/akio-tomiya/Wilsonloop.jl) : Wilsonloop.jl helps us to treat with the Wilson loops and generic Wilson lines in any Nc and dimensions. Wilson lines can be defined in symbolly.
 
+# Acknowledgment
+If you write a paper using this package, please refer this code.
+
+BibTeX citation is following
+```
+@misc{nagai2024juliaqcdportablelatticeqcd,
+      title={JuliaQCD: Portable lattice QCD package in Julia language}, 
+      author={Yuki Nagai and Akio Tomiya},
+      year={2024},
+      eprint={2409.03030},
+      archivePrefix={arXiv},
+      primaryClass={hep-lat},
+      url={https://arxiv.org/abs/2409.03030}, 
+}
+```
