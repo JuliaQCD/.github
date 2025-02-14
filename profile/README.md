@@ -20,6 +20,7 @@ This package is organized as follows. Basically, upper side depends on lower pac
 
 # Q&A/Issues
 Please post your questions/issues in [here](https://github.com/orgs/JuliaQCD/discussions).
+English/Japanese are available (日本語でも対応します).
 
 # Acknowledgment
 If you write a paper using this package, please refer this code.
