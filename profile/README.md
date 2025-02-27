@@ -17,7 +17,7 @@ This package is organized as follows. Basically, upper side depends on lower pac
 - [LatticeDiracOperators.jl](https://github.com/akio-tomiya/LatticeDiracOperators.jl) : LatticeDiracOperators.jl is a package for Dirac operators and fermions on the lattice. Treating pseudo-femrion fields with various lattice Dirac operators, fermion actions with MPI. This can generate configurations with dynamical fermions.
 - [Gaugefields.jl](https://github.com/akio-tomiya/Gaugefields.jl) : Gaugefields.jl is a package for lattice lattice SU(N) gauge fileds. Treating gauge fields (links), gauge actions with MPI and autograd. This can generate quenched configurations.  
 - [Wilsonloop.jl](https://github.com/akio-tomiya/Wilsonloop.jl) : Wilsonloop.jl helps us to treat with the Wilson loops and generic Wilson lines in any Nc and dimensions. Wilson lines can be defined in symbolly.
-- [VisualizingLQCD.jl] (https://github.com/akio-tomiya/VisualizingLQCD.jl): Visualization of QCD vacuum.
+- [VisualizingLQCD.jl](https://github.com/akio-tomiya/VisualizingLQCD.jl): Visualization of QCD vacuum.
 
 # Q&A/Issues
 Please post your questions/issues in [here](https://github.com/orgs/JuliaQCD/discussions).
